@@ -22,9 +22,11 @@
   },
   "dependencies": {
     "@aws-cdk/aws-eks": "^1.128.0",
+    "@aws-cdk/aws-rds": "^1.128.0",
     "@aws-cdk/core": "1.128.0",
     "cdk8s": "^1.1.8",
     "cdk8s-plus": "^0.33.0",
+    "cdk8s-plus-22": "^1.0.0-beta.21",
     "constructs": "^3.3.161",
     "source-map-support": "^0.5.16"
   }
